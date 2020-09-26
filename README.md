@@ -1,6 +1,6 @@
 # hackbox
 
-A starter tools script to get going as soon as you initialize a new droplet. Supports *Ubuntu 18.04*
+A starter tools script to get you going as soon as you initialize a new droplet. Supports *Ubuntu 18.04*
 
 # What is getting installed?
 
