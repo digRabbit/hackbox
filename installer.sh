@@ -26,7 +26,7 @@ apt install wfuzz -y
 ##Installing Nuclei
 wget -O /tmp/nuclei.tar.gz https://github.com/projectdiscovery/nuclei/releases/download/v2.1.1/nuclei_2.1.1_linux_amd64.tar.gz
 tar -xzvf /tmp/nuclei.tar.gz
-mv /tmp/nuclei /usr/local/bin
+mv nuclei /usr/local/bin
 
 #Installing SecList && rockyou.txt
 mkdir /wordlists
