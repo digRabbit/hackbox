@@ -11,3 +11,8 @@ A starter tools script to get going as soon as you initialize a new droplet. Sup
 - Nmap
 - Nikto
 - SecList & rockyou.txt
+
+
+# Usage
+
+Just execute the installer.sh script and get going :)
